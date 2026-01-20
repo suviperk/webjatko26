@@ -10,12 +10,12 @@
 10. Opin milloin käytetään const, let tai var.
 11. Perus string vaikutti että se on aika samantyyppinen kuin C#:issa 
 12. Tässä videossa selitettiin miten string ja number käytetään
-13. Opin että aina ei tarvitse + merkkiä, vaan voi käyttää (`Hello ${str1}`);
+13. Opin että aina ei tarvitse + merkkiä, vaan pidemmissä voi käyttää (`Hello ${str1}`);
 14.
 15.
 16.
-17.
-18.
+17. Videossa selitetään että yksinkertaisia laskuja voi laskea javascriptillä
+18. Demossa näytetään miten laskuja tehdään ja miten ne näkyvät
 19.
 20.
 21.
