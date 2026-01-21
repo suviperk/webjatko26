@@ -16,16 +16,16 @@
 16. Komennolla typeof voi katsoa mikä datatyyppi arvo on.
 17. Videossa selitetään että yksinkertaisia laskuja voi laskea javascriptillä
 18. Demossa näytetään miten laskuja tehdään ja miten ne näkyvät
-19.
-20.
+19. Jos haluat vaihtaa string numeroksi se tapahtuu parseInt() tai parseFloat() komennoilla.
+20. Jos yrität vaihtaa satunnaisia kirjaimia numeroiksi javascript antaa tulokseksi NaN
 21. Virheet voivat olla critical, dangerous, confusing.
 22. Virheiden käsittelyä try/catch/finally menetelmällä
 23. Päivämäärän ja viikonpäivän numerointi aloitetaan nollasta (tammikuu ja sunnuntai).
 24. Opin miten päivämääriä ja aikaa käsitellään javascriptissä.
-25.
-26.
-27.
-28.
+25. Kun vertailet arvoja käytä ===
+26. Demoja erilaisista tavoista vertailla arvoja.
+27. käytä ja tai arvojen testauksessa && ||
+28. if lauseen sijaan voidaan käyttää switch 
 29. Videossa selitettiin miten luoda javascriptillä taulukko.
 30. Voit katsoa taulukon pituuden taulukonnimi.length komennolla.
 31.
