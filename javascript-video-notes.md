@@ -28,24 +28,24 @@
 28. if lauseen sijaan voidaan käyttää switch 
 29. Videossa selitettiin miten luoda javascriptillä taulukko.
 30. Voit katsoa taulukon pituuden taulukonnimi.length komennolla.
-31.
-32.
-33.
-34.
+31. Taulukossa arvo alkaa nollasta
+32. Videossa näytettiin miten lisätä arvoja taulukkoon.
+33. Taulukosta pystyy muuttaa ja palauttaa arvoja push, pop, shift, unshift komennoilla
+34. Demossa esitettiin miten push, pop, shift, unshift komennot toimivat
 35. Loopissa on kolme yleisintä komentoa ovat:  for, for of, and while
-36.
-37.
-38.
-39.
-40.
-41.
-42.
-43.
-44.
-45.
-46.
-47.
-48.
+36. for, for of, while loop:ien eroja
+37. Videossa selitettiin mitä funktiot on ja miksi niitä käytetään
+38. Opin miten funktioita määritellään ja kutsutaan
+39. Opin että arrow-funktio on lyhyempi ja usein kätevämpi kirjoittaa funktio javascriptissä
+40. Videolla ohjeistettiin miten arrow funktiota käytetään =>
+41. JSON = JavaScript Object Notation
+42. Demottiin miten JSON käytetään koodissa.
+43. Videossa selitettiin, mikä objekti on javascriptissä
+44. Näytettiin miten objektin voi luoda javascriptissä 
+45. Opin että setTimeout-funktiolla voi asettaa tietyn ajan ennen kuin koodi suoritetaan
+46. Demossa näytettiin miten aikaviive toimii
+47. async/await syntaksilla voidaan tehdä asynkronisesta koodista helpommin luettavaa.
+48. Videossa näytettiin demo, miten async/await syntaksia käytetään javascript koodissa.
 49. NPM on suosituin mistä löydät projektiisi paketit.
-50.
+50. Demo miten paketteja ladataan ja käytetään
 51. Loppusanat ja linkkejä mistä voit oppia lisää.
